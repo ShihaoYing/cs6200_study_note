@@ -1,3 +1,6 @@
 [submodule "gios-spr-23-pr1"]
 	path = gios-spr-23-pr1
 	url = git@github.com:ShihaoYing/gios-spr-23-pr1.git
+[submodule "gios_environment"]
+	path = gios_environment
+	url = git@github.com:ShihaoYing/gios_environment.git
