@@ -4,6 +4,8 @@
         "cond",
         "POSIX",
         "Pthread",
+        "setdetachstate",
+        "setscope",
         "timeslice"
     ]
 }
