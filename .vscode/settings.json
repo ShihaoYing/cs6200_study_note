@@ -1,11 +1,16 @@
 {
-    "cSpell.words": [
-        "Birrell's",
-        "cond",
-        "POSIX",
-        "Pthread",
-        "setdetachstate",
-        "setscope",
-        "timeslice"
-    ]
+  "cSpell.words": [
+    "Birrell's",
+    "cond",
+    "gfcrequest",
+    "POSIX",
+    "Pthread",
+    "setdetachstate",
+    "setscope",
+    "timeslice"
+  ],
+  "files.associations": {
+    "*.rmd": "markdown",
+    "unistd.h": "c"
+  }
 }
