@@ -4,3 +4,6 @@
 [submodule "gios_environment"]
 	path = gios_environment
 	url = git@github.com:ShihaoYing/gios_environment.git
+[submodule "pr3"]
+	path = pr3
+	url = https://github.gatech.edu/gios-spr-23/pr3.git
